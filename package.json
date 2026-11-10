@@ -1,0 +1,14 @@
+{
+  "name": "wardrobe-pwa",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Local-first outfit-of-the-day PWA. No backend — all logic runs in the browser, data lives in IndexedDB.",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^2.1.4"
+  }
+}
